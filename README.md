@@ -98,3 +98,4 @@ Here is a list of properties available to customize the widget:
 ## Contributions
 
 Contributions of any kind are more than welcome! Feel free to fork and improve international_phone_input in any way you want, make a pull request, or open an issue.
+This is a fork and the origin project is dead.
